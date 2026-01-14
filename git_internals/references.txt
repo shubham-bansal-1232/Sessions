@@ -1,0 +1,9 @@
+https://softwareengineering.stackexchange.com/questions/301400/why-is-the-git-git-objects-folder-subdivided-in-many-sha-prefix-folders
+
+http://www-cs-students.stanford.edu/~blynn/gitmagic/ch08.html
+
+https://blog.thoughtram.io/git/2014/11/18/the-anatomy-of-a-git-commit.html
+
+Youtube video -> https://www.youtube.com/watch?v=DjOk0jnqsLk
+
+New version control system: https://www.phacility.com/phabricator/
